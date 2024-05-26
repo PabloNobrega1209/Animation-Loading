@@ -7,4 +7,4 @@ Aqui temos o objetivo de mostrar funcionalidades mais avançadas do CSS
 
 # Visualização
 
-[Link do codepen: ](https://codepen.io/Pablo-Nobrega/pen/MWdjdXr))
+[Link do codepen](https://codepen.io/Pablo-Nobrega/pen/MWdjdXr))
